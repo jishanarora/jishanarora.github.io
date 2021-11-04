@@ -19,9 +19,9 @@ aroraj@myumanitoba.ca
 
 **Bison Transport, Winnipeg, MB**  **September 2020 – April 2021**
 
-**Data Analyst, Part-Time **  **January 2021 – Present**
+**Data Analyst, Part-Time**  **January 2021 – Present**
 
-**Analytics Intern, Coop Term 2 **  **September 2020 – December 2020**
+**Analytics Intern, Coop Term 2**  **September 2020 – December 2020**
 
 Interact with the PowerBI API to create dashboards used by business analysts to actively improve the business opportunities and profit. In addition, gathering requirements from key users, performing acceptance testing on the tools, and engaging in tool evolution.
 
