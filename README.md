@@ -1,4 +1,4 @@
-# How to Host a Resume In Markdown Format with GitHub Pages
+# How to Host a Resume in Markdown Format With Github Pages
 ## Purpose
 Describe how to format a resume using Markdown and host it using Jekyll and Github Pages. The steps will be based on some general principles of technical writing as described in **Andrew Etter's** book _Modern Technical Writing_.
 
@@ -12,7 +12,8 @@ Refer To the **"More Resources"** section in case you need further information.
 ## Instructions
 
 Andrew Etter mentioned some of the benefits of using distributed version control in his book _Modern Technical Writing_. Github is a distributed [versin control system](https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=Version%20control%2C%20also%20known%20as,to%20source%20code%20over%20time.) that allows multiple users/developers to collaborate on the same files and therfore help teams to manage changes to source code over time.
-### Setting up a new GitHub Repository
+
+### Setting up a New Github Repository
 *  Log in into your [Github](https://github.com/) Account.
 * Select New repository from the drop-down menu in the upper-right corner of any page.
 * Name your repository in the follwoing way in order for the Github Pages to recognize your repository.
@@ -21,14 +22,13 @@ Andrew Etter mentioned some of the benefits of using distributed version control
 * Do not add the initial README.
 * Click **Create repository**.
 
-### Add Files to the Repository using Github Account
-
+### Add Files to the Repository using GitHub Account
 * Go to the desired repository.
 * Click **add file** on the top right of the repository menu.
 * Create two files named index.md and README.md. 
 * Copy your markdown formatted resume and README into index.md and README.md respectively.
 
-### Add/Edit Files in the Repository using a Local Repository
+### Add/Edit Files in the Repository Using a Local Repository
 
 * Go to the desired repository and copy the [HTTPS-link] under the **code** menu at the top right.
 * Open a command terminal on your computer and navigate to the desired directory.
@@ -53,7 +53,7 @@ According to Andrew Etter, static websites are very easy to use; they don't requ
     * Select a preferred theme and click **save**.
     * A new gh-pages branch will be created which contains _config.yml file in the repository. GitHub Pages generates static sites from markdown files using the Jekyll framework. This config file is used by Jekyll to choose which theme to apply.
 
-* **Change the Title of your Website**
+* **Change the Title of Your Website**
     * To change the title of your static site edit config.yml generated in the gh-pages branch and add the line
     ```title: "[my-title]" ```
 
