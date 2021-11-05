@@ -49,7 +49,7 @@ Since our repository has been setup, now we have to pick a theme and host our re
 According to Andrew Etter, static websites are very easy to use; they don't require a connection to a server-side programme or database, and there is less chance of problems. They are simple to create and are ideal for activities when the only thing displayed is text, such as documentation.
 
 * **Pick a Theme**   
-    *  Navigate to Settings>Pages>Theme Chooser
+    *  Navigate to Settings>Pages>Theme Chooser.
     * Select a preferred theme and click **save**.
     * A new file named _config.yml will be created in the main repository. GitHub Pages generates static sites from markdown files using the Jekyll framework. This config file is used by Jekyll to choose which theme to apply.
 
@@ -61,7 +61,7 @@ According to Andrew Etter, static websites are very easy to use; they don't requ
 * Navigate to Settings>Pages.
 * Click on the link to your published static website.
 
-You can also access the site by typing the following URL into the address box. It should be something along the lines of ```https://[Username].github.io/```
+You can also access the site by typing the following URL into the address box. It should be something along the lines of ```https://[Username].github.io/```.
 
 ## More Resources
 [_Modern Technical Writing_ by Andrew Etter]( https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
