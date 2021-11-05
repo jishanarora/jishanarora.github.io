@@ -51,7 +51,7 @@ According to Andrew Etter, static websites are very easy to use; they don't requ
 * **Pick a Theme**   
     *  Navigate to Settings>Pages>Theme Chooser
     * Select a preferred theme and click **save**.
-    * A new gh-pages branch will be created which contains _config.yml file in the repository. GitHub Pages generates static sites from markdown files using the Jekyll framework. This config file is used by Jekyll to choose which theme to apply.
+    * A new file named _config.yml will be created in the main repository. GitHub Pages generates static sites from markdown files using the Jekyll framework. This config file is used by Jekyll to choose which theme to apply.
 
 * **Change the Title of Your Website**
     * To change the title of your static site edit config.yml generated in the gh-pages branch and add the line
