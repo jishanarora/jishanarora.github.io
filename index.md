@@ -3,7 +3,7 @@
 
 aroraj@myumanitoba.ca
 
-[www.github.comJayArora1997](http://www.github.com/jishanarora)
+[www.github.com/jishanarora](http://www.github.com/jishanarora)
 
 [www.linkedin.com/in/jishanarora](http://www.linkedin.com/in/jishanarora)
 
