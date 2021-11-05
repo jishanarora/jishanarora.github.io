@@ -76,6 +76,10 @@ You can also access the site by typing the following URL into the address box. I
     * Xing Zhou
     * Tanisha Turner
     * Adam Donen
+* **Cayman Theme Authors**:
+   * Ben Balter
+   * Jason Long
+   * Parker Moore
 
 ## Frequently Asked Questions
 * Why are we using Markdown?   
