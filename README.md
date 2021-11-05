@@ -63,6 +63,8 @@ According to Andrew Etter, static websites are very easy to use; they don't requ
 
 You can also access the site by typing the following URL into the address box. It should be something along the lines of ```https://[Username].github.io/```.
 
+![](https://github.com/jishanarora/jishanarora.github.io/blob/main/Animation.gif)
+
 ## More Resources
 [_Modern Technical Writing_ by Andrew Etter]( https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 [Markdown Tutorial](https://www.markdowntutorial.com/)  
